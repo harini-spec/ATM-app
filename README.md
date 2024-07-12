@@ -60,4 +60,4 @@ The ATM Application is a project developed to simulate the functionalities of an
     ```
 
 ## Demo
-<video controls src="ATM-Application-Demo-Video.mp4" title="Title"></video>
+<video controls src="./ATM-Application-Demo-Video.mp4" title="Title"></video>
